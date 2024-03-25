@@ -1,0 +1,19 @@
+body {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(
+        to top,
+        #00658B 0%,
+        #00658B 50%,
+        #FFFFFF 50%,
+        #FFFFFF 100%
+    );
+}
+
+.loginForm {
+    background-color: #FFFFFF;
+}
+
+.round {
+    border-radius: 35px;
+}

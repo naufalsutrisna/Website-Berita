@@ -1,0 +1,34 @@
+
+/* Warna utama */
+.buttonPrimary { 
+    background: #00658B; 
+    color: #FFFFFF;
+}
+
+.btn-light:hover {
+    background-color: #0080AE;
+}
+
+.btn-primary {
+    background-color: #4EB5EA;
+}
+
+.btn-secondary {
+    background-color: #0080AE;
+}
+
+.btn-primary:hover {
+    background-color: #0080AE;
+}
+
+.btn-secondary:hover {
+    background-color: #4EB5EA;
+}
+
+.btn-success:hover {
+    background-color: #6cc556;
+}
+
+.btn-danger:hover {
+    background-color: #FF5449;
+}

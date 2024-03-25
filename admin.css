@@ -1,0 +1,29 @@
+body {
+    background-color: #00658B;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+}
+
+.center, th, td {
+    text-align: center;
+}
+
+.modal-content {
+    align-items: center;
+    justify-content: center;
+}
+
+.inline-span {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
